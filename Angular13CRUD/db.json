@@ -1,0 +1,68 @@
+{
+  "productList": [
+    {
+      "productName": "iPhone12",
+      "category": "Electronics",
+      "date": "2022-03-22T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 70000,
+      "comment": "Great Mobile",
+      "id": 1
+    },
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "An apple a day...",
+      "date": "2022-03-15T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Spinach",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 50,
+      "comment": "Good",
+      "date": "2022-03-08T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "MacBook",
+      "category": "Electronics",
+      "date": "2021-07-25T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 92990,
+      "comment": "Great Laptop",
+      "id": 4
+    },
+    {
+      "productName": "Head Phones",
+      "category": "Electronics",
+      "date": "2021-12-01T18:30:00.000Z",
+      "freshness": "Refurbished",
+      "price": 1000,
+      "comment": "Should be better!",
+      "id": 5
+    },
+    {
+      "productName": "Banana",
+      "category": "Fruits",
+      "date": "2022-03-09T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 40,
+      "comment": "Good",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
